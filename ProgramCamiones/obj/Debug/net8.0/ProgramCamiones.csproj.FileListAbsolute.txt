@@ -1,0 +1,14 @@
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\bin\Debug\net8.0\ProgramCamiones.exe
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\bin\Debug\net8.0\ProgramCamiones.deps.json
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\bin\Debug\net8.0\ProgramCamiones.runtimeconfig.json
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\bin\Debug\net8.0\ProgramCamiones.dll
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\bin\Debug\net8.0\ProgramCamiones.pdb
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\obj\Debug\net8.0\ProgramCamiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\obj\Debug\net8.0\ProgramCamiones.AssemblyInfoInputs.cache
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\obj\Debug\net8.0\ProgramCamiones.AssemblyInfo.cs
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\obj\Debug\net8.0\ProgramCamiones.csproj.CoreCompileInputs.cache
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\obj\Debug\net8.0\ProgramCamiones.dll
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\obj\Debug\net8.0\refint\ProgramCamiones.dll
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\obj\Debug\net8.0\ProgramCamiones.pdb
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\obj\Debug\net8.0\ProgramCamiones.genruntimeconfig.cache
+C:\Users\51941\source\repos\ProgramCamiones\ProgramCamiones\obj\Debug\net8.0\ref\ProgramCamiones.dll
